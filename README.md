@@ -13,14 +13,19 @@ I'm currently:
 - :computer: working at [Elo7](https://www.elo7.com.br) as a Software Engineer.
 - :books: Studying TypeScript
 
+#### 📫 How to reach me: 
+
+[<img align="left" alt="costalopes71 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />](https://www.github.com/costalopes71)
+[<img align="left" alt="costalopes71 | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />](mailto:joaolopes71@hotmail.com)
+
+<br />
+<br />
+
 #### :floppy_disk: Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/java.svg" />
 
-#### 📫 How to reach me: 
-
-[<img align="left" alt="costalopes71 | Itch-io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />][github] 
-
+<br />
 <br />
 
 <details>
