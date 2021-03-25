@@ -7,16 +7,26 @@
 ░╚═╝░╚═╝░░░░╚════╝░░╚════╝░╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝░╚════╝░╚═╝░░░░░╚══════╝╚═════╝░░░╚═╝░░░╚══════╝░╚═╝░╚═╝░░░
 </pre>
 
-### Hi there, Im costalopes71 👋
+### Hi there, I’m costalopes71 :metal:
+
+I'm currently:
+- :computer: working at [Elo7](https://www.elo7.com.br) as a Software Engineer.
+- :books: Studying TypeScript
+
+#### :floppy_disk: Languages and Tools:
+
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/java.svg" />
+
+#### 📫 How to reach me: 
+
+[<img align="left" alt="costalopes71 | Itch-io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />][github] 
+
+<br />
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-
   <img src="https://github-readme-stats.vercel.app/api?username=costalopes71&show_icons=true&hide_border=true&count_private=true" align="left" alt="costalopes71's GitHub Stats" />
-</a>
   <img alt="costalopes71's Top Languages" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costalopes71&show_icons=true&hide_border=true&count_private=true" />
-
 </details>
 
 <!--
